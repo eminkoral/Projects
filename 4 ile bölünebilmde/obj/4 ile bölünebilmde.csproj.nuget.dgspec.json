@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/choralle/Desktop/Code/Ödevler/4 ile bölünebilmde/4 ile bölünebilmde.csproj": {}
+  },
+  "projects": {
+    "/Users/choralle/Desktop/Code/Ödevler/4 ile bölünebilmde/4 ile bölünebilmde.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/choralle/Desktop/Code/Ödevler/4 ile bölünebilmde/4 ile bölünebilmde.csproj",
+        "projectName": "4 ile bölünebilmde",
+        "projectPath": "/Users/choralle/Desktop/Code/Ödevler/4 ile bölünebilmde/4 ile bölünebilmde.csproj",
+        "packagesPath": "/Users/choralle/.nuget/packages/",
+        "outputPath": "/Users/choralle/Desktop/Code/Ödevler/4 ile bölünebilmde/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/choralle/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

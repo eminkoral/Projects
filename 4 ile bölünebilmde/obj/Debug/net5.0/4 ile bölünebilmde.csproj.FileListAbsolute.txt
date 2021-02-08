@@ -1,0 +1,15 @@
+/Users/choralle/Desktop/Code/Ödevler/4 ile bölünebilmde/bin/Debug/net5.0/4 ile bölünebilmde.deps.json
+/Users/choralle/Desktop/Code/Ödevler/4 ile bölünebilmde/bin/Debug/net5.0/4 ile bölünebilmde.runtimeconfig.json
+/Users/choralle/Desktop/Code/Ödevler/4 ile bölünebilmde/bin/Debug/net5.0/4 ile bölünebilmde.runtimeconfig.dev.json
+/Users/choralle/Desktop/Code/Ödevler/4 ile bölünebilmde/bin/Debug/net5.0/4 ile bölünebilmde.dll
+/Users/choralle/Desktop/Code/Ödevler/4 ile bölünebilmde/bin/Debug/net5.0/ref/4 ile bölünebilmde.dll
+/Users/choralle/Desktop/Code/Ödevler/4 ile bölünebilmde/bin/Debug/net5.0/4 ile bölünebilmde.pdb
+/Users/choralle/Desktop/Code/Ödevler/4 ile bölünebilmde/obj/Debug/net5.0/4 ile bölünebilmde.csprojAssemblyReference.cache
+/Users/choralle/Desktop/Code/Ödevler/4 ile bölünebilmde/obj/Debug/net5.0/4 ile bölünebilmde.GeneratedMSBuildEditorConfig.editorconfig
+/Users/choralle/Desktop/Code/Ödevler/4 ile bölünebilmde/obj/Debug/net5.0/4 ile bölünebilmde.AssemblyInfoInputs.cache
+/Users/choralle/Desktop/Code/Ödevler/4 ile bölünebilmde/obj/Debug/net5.0/4 ile bölünebilmde.AssemblyInfo.cs
+/Users/choralle/Desktop/Code/Ödevler/4 ile bölünebilmde/obj/Debug/net5.0/4 ile bölünebilmde.csproj.CoreCompileInputs.cache
+/Users/choralle/Desktop/Code/Ödevler/4 ile bölünebilmde/obj/Debug/net5.0/4 ile bölünebilmde.dll
+/Users/choralle/Desktop/Code/Ödevler/4 ile bölünebilmde/obj/Debug/net5.0/ref/4 ile bölünebilmde.dll
+/Users/choralle/Desktop/Code/Ödevler/4 ile bölünebilmde/obj/Debug/net5.0/4 ile bölünebilmde.pdb
+/Users/choralle/Desktop/Code/Ödevler/4 ile bölünebilmde/obj/Debug/net5.0/4 ile bölünebilmde.genruntimeconfig.cache

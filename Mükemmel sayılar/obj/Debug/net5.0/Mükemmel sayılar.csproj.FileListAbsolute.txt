@@ -1,0 +1,15 @@
+/Users/choralle/Desktop/Code/Ödevler/Mükemmel sayılar/bin/Debug/net5.0/Mükemmel sayılar.deps.json
+/Users/choralle/Desktop/Code/Ödevler/Mükemmel sayılar/bin/Debug/net5.0/Mükemmel sayılar.runtimeconfig.json
+/Users/choralle/Desktop/Code/Ödevler/Mükemmel sayılar/bin/Debug/net5.0/Mükemmel sayılar.runtimeconfig.dev.json
+/Users/choralle/Desktop/Code/Ödevler/Mükemmel sayılar/bin/Debug/net5.0/Mükemmel sayılar.dll
+/Users/choralle/Desktop/Code/Ödevler/Mükemmel sayılar/bin/Debug/net5.0/ref/Mükemmel sayılar.dll
+/Users/choralle/Desktop/Code/Ödevler/Mükemmel sayılar/bin/Debug/net5.0/Mükemmel sayılar.pdb
+/Users/choralle/Desktop/Code/Ödevler/Mükemmel sayılar/obj/Debug/net5.0/Mükemmel sayılar.csprojAssemblyReference.cache
+/Users/choralle/Desktop/Code/Ödevler/Mükemmel sayılar/obj/Debug/net5.0/Mükemmel sayılar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/choralle/Desktop/Code/Ödevler/Mükemmel sayılar/obj/Debug/net5.0/Mükemmel sayılar.AssemblyInfoInputs.cache
+/Users/choralle/Desktop/Code/Ödevler/Mükemmel sayılar/obj/Debug/net5.0/Mükemmel sayılar.AssemblyInfo.cs
+/Users/choralle/Desktop/Code/Ödevler/Mükemmel sayılar/obj/Debug/net5.0/Mükemmel sayılar.csproj.CoreCompileInputs.cache
+/Users/choralle/Desktop/Code/Ödevler/Mükemmel sayılar/obj/Debug/net5.0/Mükemmel sayılar.dll
+/Users/choralle/Desktop/Code/Ödevler/Mükemmel sayılar/obj/Debug/net5.0/ref/Mükemmel sayılar.dll
+/Users/choralle/Desktop/Code/Ödevler/Mükemmel sayılar/obj/Debug/net5.0/Mükemmel sayılar.pdb
+/Users/choralle/Desktop/Code/Ödevler/Mükemmel sayılar/obj/Debug/net5.0/Mükemmel sayılar.genruntimeconfig.cache
